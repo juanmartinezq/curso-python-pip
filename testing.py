@@ -1,1 +1,1 @@
-print('Haciendo pruebas de configuracion local')
+print('Haciendo pruebas de configuracion local y signed commits')
