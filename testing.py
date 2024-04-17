@@ -1,1 +1,1 @@
-print('Haciendo pruebas de configuracion local y signed commits despues de setear el email')
+print('Haciendo pruebas de configuracion local y signed commits despues de setear el email y agregar GPG KEY')
